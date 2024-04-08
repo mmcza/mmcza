@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm currently studying Automatic Control and Robotics 🤖 (major in Autonomous Robots and Systems)
 - 🔭 I’m currently working on machine learning algorithms for robots and computer vision
 - 🌱 I’m currently learning path finding algorithms and control for robots
-- ⚡ Fun fact: this emote 🏎 on Android and iOS devices has the proper color for a F1 car 😎
+- ⚡ Fun fact: this emote 🏎 on Android and iOS devices has the proper color for the F1 car 😎
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcza&hide=C,Makefile,Jupyter%20Notebook,Assembly&layout=donut&theme=chartreuse-dark"/>
