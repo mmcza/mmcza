@@ -6,7 +6,7 @@
 - ⚡ Fun fact: this emote 🏎 on Android and iOS devices has the proper color for the F1 car 😎
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcza&hide=C,Makefile,Jupyter%20Notebook,Assembly&layout=donut&theme=chartreuse-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcza&hide=C,Makefile,Jupyter%20Notebook,Assembly,HTML&layout=donut&theme=chartreuse-dark"/>
 </p>
 
 # 🧰  My toolbox
